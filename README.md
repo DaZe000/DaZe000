@@ -2,7 +2,7 @@
 # profile-readme
 
 
-<img align="right" width="400" height="400" src="https://github.com/DaZe000/profile-readme/blob/main/0a99f0ebca13dd5a96c720c97f6695d1.jpg">
+<img align="right" width="400" height="400" src="https://github.com/DaZe000/DaZe000/blob/main/0a99f0ebca13dd5a96c720c97f6695d1.jpg">
 
 
 # Hi, I'm ZEUSSS :koala:
