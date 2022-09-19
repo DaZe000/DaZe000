@@ -11,7 +11,7 @@
 
 West Visayas State University. :man_technologist:
 
-INFP-T :wave: | :leo:
+INFP :wave: | :leo:
 
 
 
