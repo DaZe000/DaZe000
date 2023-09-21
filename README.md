@@ -7,7 +7,7 @@
 
 # Hi, I'm ZEUSSS :koala:
 
-4th-year BS in Computer Science  |  :robot:. (In progress)
+BACHELOR OF SCIENCE IN COMPUTER SCIENCE  |  :robot:. (COMPLETED)
 
 West Visayas State University. :man_technologist:
 
